@@ -9,4 +9,5 @@ group :test do
   gem 'selenium-webdriver'
   gem 'site_prism'
   gem 'aws-sdk-secretsmanager', '~> 1.44'
+  gem 'faker'
 end
